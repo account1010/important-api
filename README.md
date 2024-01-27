@@ -8,4 +8,4 @@ API'yi kullanabilmek için aşağıdaki adımları izleyin:
 
 1. Projeyi klonlayın:
    ```html
-   https://account1010.github.io/minecraftElements/script.js
+   <script src='https://account1010.github.io/minecraftElements/script.js'></script>
