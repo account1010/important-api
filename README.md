@@ -29,5 +29,4 @@ if response.status_code == 200:
     print(response.json())
 ``` 
 
-gördüğünüz gibi dünyanın en değerli API lerinden birini size sundum kurulumu gerçekten kolay ve basit bu API yi projenize ekleyerek sizde bu API den **ÜCRETSİZ** bir şekilde yararlanabilirsiniz, API nin hakları @noob2313 a aittir dökümanımı okuduğunuz için teşekkürler API hakkında hata vs. çıkarsa beni etiketleyerek bana bu form dan ulaşınız.
-||ironidir.||
+gördüğünüz gibi dünyanın en değerli API lerinden birini size sundum kurulumu gerçekten kolay ve basit bu API yi projenize ekleyerek sizde bu API den **ÜCRETSİZ** bir şekilde yararlanabilirsiniz, API nin hakları account1010 a aittir dökümanımı okuduğunuz için teşekkürler.
